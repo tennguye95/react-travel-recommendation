@@ -3,7 +3,11 @@ Building a travel recommendation app using Google Maps with Geolocation, Google 
 
 
 Rapid API: https://rapidapi.com/hub
+
 Travel Advisor API: https://rapidapi.com/apidojo/api/travel-advisor/
+
 Open Weather API: https://rapidapi.com/community/api/open-weather-map/
+
 Setup: run npm i && npm start to start the development server
+
 Uploaded to Netify : https://travel-advisor-react.netlify.app/
